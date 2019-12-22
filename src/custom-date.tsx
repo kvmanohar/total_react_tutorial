@@ -15,4 +15,6 @@ function CustomDate() {
 	);
 }
 
+CustomDate.displayName = 'CustomDate';
+
 export default CustomDate;
